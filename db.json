@@ -1,0 +1,24 @@
+{
+Product : [
+{"id":1,"name":"Macaw, blue and yellow","category":"Indigo"},
+{"id":2,"name":"Rattlesnake, dusky","category":"Blue"},
+{"id":3,"name":"Little brown dove","category":"Green"},
+{"id":4,"name":"Common long-nosed armadillo","category":"Mauv"},
+{"id":5,"name":"Dik, kirk's dik","category":"Puce"},
+{"id":6,"name":"Common dolphin","category":"Red"},
+{"id":7,"name":"Bottle-nose dolphin","category":"Orange"},
+{"id":8,"name":"Lion, south american sea","category":"Orange"},
+{"id":9,"name":"Gray duiker","category":"Indigo"},
+{"id":10,"name":"Paca","category":"Blue"},
+{"id":11,"name":"Barasingha deer","category":"Yellow"},
+{"id":12,"name":"Cockatoo, roseate","category":"Blue"},
+{"id":13,"name":"Superb starling","category":"Aquamarine"},
+{"id":14,"name":"Pygmy possum","category":"Yellow"},
+{"id":15,"name":"Owl, australian masked","category":"Crimson"},
+{"id":16,"name":"African buffalo","category":"Purple"},
+{"id":17,"name":"Crane, sarus","category":"Green"},
+{"id":18,"name":"Western patch-nosed snake","category":"Maroon"},
+{"id":19,"name":"Screamer, southern","category":"Turquoise"},
+{"id":20,"name":"Oriental short-clawed otter","category":"Blue"}
+]
+}
